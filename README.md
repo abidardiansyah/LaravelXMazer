@@ -8,7 +8,7 @@ If you want to check the original template in HTML5 and Bootstrap, [click here](
 ## Installation
 1. Clone this project
     ```bash
-    git clone https://github.com/abidardiansyah/LaravelXMazer)
+    git clone https://github.com/abidardiansyah/LaravelXMazer
     cd LaravelXMazer
     ```
 2. Install dependencies
